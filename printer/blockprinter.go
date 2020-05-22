@@ -13,7 +13,8 @@ import (
 	"reflect"
 	"strings"
 
-	"code.uni-ledger.com/switch/fabric-tools/types"
+	"fabric-tools/types"
+
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
 	"github.com/hyperledger/fabric-sdk-go/third_party/github.com/hyperledger/fabric/core/common/ccprovider"

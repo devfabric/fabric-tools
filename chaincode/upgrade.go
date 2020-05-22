@@ -3,7 +3,7 @@ package chaincode
 import (
 	"strings"
 
-	"code.uni-ledger.com/switch/fabric-tools/types"
+	"fabric-tools/types"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/resmgmt"
 	"github.com/hyperledger/fabric-sdk-go/pkg/common/errors/retry"
 

@@ -3,7 +3,7 @@ package chaincode
 import (
 	"net/http"
 
-	"code.uni-ledger.com/switch/fabric-tools/types"
+	"fabric-tools/types"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/resmgmt"
 	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/fab"
 	"github.com/hyperledger/fabric-sdk-go/pkg/fab/ccpackager/gopackager"

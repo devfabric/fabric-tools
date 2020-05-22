@@ -5,8 +5,9 @@ import (
 	"math/rand"
 	"os"
 
-	"code.uni-ledger.com/switch/fabric-tools/config"
-	"code.uni-ledger.com/switch/fabric-tools/printer"
+	"fabric-tools/config"
+	"fabric-tools/printer"
+
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/channel"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/event"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/ledger"

@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"code.uni-ledger.com/switch/fabric-tools/types"
+	"fabric-tools/types"
 	"github.com/hyperledger/fabric-sdk-go/pkg/common/providers/core"
 	"github.com/hyperledger/fabric-sdk-go/pkg/core/config"
 	"github.com/sirupsen/logrus"

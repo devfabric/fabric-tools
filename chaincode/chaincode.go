@@ -1,6 +1,6 @@
 package chaincode
 
-import "code.uni-ledger.com/switch/fabric-tools/manager"
+import "fabric-tools/manager"
 
 // ChainCodeManager 用于通道操作
 type ChainCodeManager struct {

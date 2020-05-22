@@ -3,7 +3,7 @@ package event
 import (
 	"errors"
 
-	"code.uni-ledger.com/switch/fabric-tools/manager"
+	"fabric-tools/manager"
 	"github.com/hyperledger/fabric-sdk-go/pkg/client/event"
 	"github.com/hyperledger/fabric-sdk-go/pkg/fab/events/deliverclient/seek"
 )
